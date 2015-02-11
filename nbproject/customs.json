@@ -1,0 +1,11 @@
+{
+    "elements": {},
+    "attributes": {
+        "mailto:href": {
+            "context": "a"
+        },
+        "href": {
+            "context": "button"
+        }
+    }
+}
